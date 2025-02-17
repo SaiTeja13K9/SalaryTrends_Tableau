@@ -59,7 +59,8 @@ Despite the data industry’s rapid economic growth, salary disparities persist 
 ### 1. Average Salaries by Employment Type (2020-2024)  
 This visualization tracks salary changes for **Full-time, Part-time, and Contract** employees over time.  
 
-![Employment Type Salary Trends](screenshots/employment_type_salary_trends.png)  
+![image](https://github.com/user-attachments/assets/b5bf2f77-c3a9-442b-8dad-d2e3be659dfc)
+ 
 
 - Full-time salaries peaked in 2022 before declining.  
 - Part-time salaries remained relatively stable.  
@@ -70,7 +71,8 @@ This visualization tracks salary changes for **Full-time, Part-time, and Contrac
 ### 2. Total Salaries by Company Size and Expertise Level  
 This heatmap visualizes how company size affects salary distribution among **Entry, Intermediate, Expert, and Director** levels.  
 
-![Salary by Company Size](screenshots/salary_by_company_size.png)  
+![image](https://github.com/user-attachments/assets/27b740e0-19ad-41fc-bb79-db9a974cc10e)
+ 
 
 - Large companies prioritize **expert-level** professionals.  
 - Medium-sized firms **invest more in mid-level employees**.  
@@ -81,7 +83,8 @@ This heatmap visualizes how company size affects salary distribution among **Ent
 ### 3. Salary Trends by Expertise Level  
 Box plots illustrate **salary variations between Experts and Juniors**.  
 
-![Expert vs. Junior Salaries](screenshots/expert_vs_junior_salaries.png)  
+![image](https://github.com/user-attachments/assets/592d5033-fe4c-4450-bec1-767208e9bf54)
+ 
 
 - Experts have **higher salary dispersion** with top outliers.  
 - Juniors have a **narrower salary range**, indicating fixed pay scales.  
@@ -91,7 +94,8 @@ Box plots illustrate **salary variations between Experts and Juniors**.
 ### 4. Maximum Salary by Company Location  
 A **global map** displaying salary distribution across different countries.  
 
-![Global Salary Map](screenshots/global_salary_map.png)  
+![image](https://github.com/user-attachments/assets/c0b06d03-848a-40f5-b78b-b0314d140719)
+ 
 
 - **Europe and the U.S.** have the highest salaries.  
 - Asia shows **lower salary distributions** in comparison.  
@@ -101,7 +105,8 @@ A **global map** displaying salary distribution across different countries.
 ### 5. Treemap of Salaries by Job Type  
 The treemap presents **average salaries** across employment types and experience levels.  
 
-![Treemap Salary Distribution](screenshots/treemap_salary_distribution.png)  
+![image](https://github.com/user-attachments/assets/33a13e22-4413-409f-b542-7c355dc4781f)
+ 
 
 - **Freelance Mid-level professionals earn the highest salaries** (~$520,311).  
 - Executive-level salaries vary significantly.  
@@ -111,7 +116,8 @@ The treemap presents **average salaries** across employment types and experience
 ### 6. Salary Distribution in Business Intelligence (BI) Roles  
 A **donut chart** depicting total salary distribution across different company sizes.  
 
-![BI Salary Distribution](screenshots/bi_salary_distribution.png)  
+![image](https://github.com/user-attachments/assets/39e705e0-9677-421d-91b7-e3b7f3fc666c)
+  
 
 - Large companies dominate BI salary expenditure (~72.82%).  
 - Small companies contribute **only 1.83%** to total BI salaries.  
@@ -121,7 +127,8 @@ A **donut chart** depicting total salary distribution across different company s
 ### 7. Bullet Chart Comparing Median vs. Average Salaries  
 This bullet chart highlights **salary skewness** in BI roles.  
 
-![Median vs. Average Salaries](screenshots/median_vs_average_salaries.png)  
+![image](https://github.com/user-attachments/assets/cdcd97d7-435c-47c4-9198-74c665e0ff52)
+  
 
 - A significant **gap between median and average salaries** indicates outliers pulling up the average.  
 
@@ -133,20 +140,24 @@ This bullet chart highlights **salary skewness** in BI roles.
 - Highlights **full-time BI professionals** with **mid-level salaries peaking at $1.44M**.  
 - Demonstrates **strong salary growth trends in BI fields**.  
 
-![BI Salary Growth Dashboard](screenshots/bi_salary_growth_dashboard.png)  
+![image](https://github.com/user-attachments/assets/f99bb33b-08b2-403a-8c32-75329a007e39)
+ 
 
 ### **Dashboard 2: Salary by Company Size & Location**  
 - **Medium-sized companies pay the highest salaries** to experts.  
 - Some **unexpected locations (e.g., Chile) show extremely high salaries**.  
 
-![Company Size Salary Trends](screenshots/company_size_salary_trends.png)  
+![image](https://github.com/user-attachments/assets/6994da64-0f3b-42f4-a03b-d08bbd8eb10e)
+
 
 ### **Dashboard 3: Salary Distribution in BI Roles**  
 - **Freelance Mid-level and Full-Time Executive** roles earn the highest pay.  
 
-![BI Role Salary Distribution](screenshots/bi_role_salary_distribution.png)  
+![image](https://github.com/user-attachments/assets/6baa677c-adc9-41df-9a75-b1a85bed20ef)
+  
 
----
+![image](https://github.com/user-attachments/assets/6d2cad0a-48ab-42e1-9b8d-6f3d9efb3c92)
+
 
 ## Business Implications  
 ### **Data-Driven Decision Making**  
@@ -179,8 +190,3 @@ The **Exploring Global Data Companies Salary Trends** project:
 3. Batt, S., et al. (2020). *Learning Tableau: A Data Visualization Tool*.  
 
 ---
-
-### 🚀 **How to Run This Project**
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/your-repo-name.git
